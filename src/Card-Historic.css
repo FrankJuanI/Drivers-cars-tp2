@@ -1,0 +1,28 @@
+.Historic {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.historic-title {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+.historic-title p {
+  width: 33%;
+  text-align: center;
+}
+
+.historic-stast {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-around;
+}
+.historic-stast p {
+  text-align: center;
+  width: 33%;
+}

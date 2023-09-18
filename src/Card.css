@@ -1,10 +1,16 @@
-.card{
-    width: 350px;
-    background-color: black;
-    color: #fff;
-    border-radius: 8px;
+.card {
+  width: 350px;
+  background-color: black;
+  color: #fff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px;
+  margin-top: 0px;
+  padding: 0;
 }
 
-.flag img{
-    width: 350px;
+.flag img {
+  width: 350px;
 }
