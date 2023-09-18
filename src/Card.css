@@ -1,0 +1,10 @@
+.card{
+    width: 350px;
+    background-color: black;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.flag img{
+    width: 350px;
+}
